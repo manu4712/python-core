@@ -1,1 +1,1 @@
-# Pthon Core
+# Python Core
